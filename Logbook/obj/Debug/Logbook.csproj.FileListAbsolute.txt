@@ -1,0 +1,12 @@
+C:\Users\Raider\source\repos\Logbook\Logbook\bin\Debug\Logbook.exe.config
+C:\Users\Raider\source\repos\Logbook\Logbook\bin\Debug\Logbook.exe
+C:\Users\Raider\source\repos\Logbook\Logbook\bin\Debug\Logbook.pdb
+C:\Users\Raider\source\repos\Logbook\Logbook\bin\Debug\Guna.UI2.dll
+C:\Users\Raider\source\repos\Logbook\Logbook\obj\Debug\Logbook.Form1.resources
+C:\Users\Raider\source\repos\Logbook\Logbook\obj\Debug\Logbook.Properties.Resources.resources
+C:\Users\Raider\source\repos\Logbook\Logbook\obj\Debug\Logbook.csproj.GenerateResource.cache
+C:\Users\Raider\source\repos\Logbook\Logbook\obj\Debug\Logbook.csproj.CoreCompileInputs.cache
+C:\Users\Raider\source\repos\Logbook\Logbook\obj\Debug\Logbook.csproj.CopyComplete
+C:\Users\Raider\source\repos\Logbook\Logbook\obj\Debug\Logbook.exe
+C:\Users\Raider\source\repos\Logbook\Logbook\obj\Debug\Logbook.pdb
+C:\Users\Raider\source\repos\Logbook\Logbook\obj\Debug\Logbook.Users.resources

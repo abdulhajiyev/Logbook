@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 
 namespace Logbook
 {
@@ -15,6 +7,27 @@ namespace Logbook
         public Form1()
         {
             InitializeComponent();
+            KeyPreview = true;
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+
+            if (e.KeyData != Keys.Escape) return;
+            if
+            (
+                MessageBox.Show
+                (
+                    "Do you want to quit ?",
+                    "Exit",
+                    MessageBoxButtons.YesNo,
+                    MessageBoxIcon.Warning,
+                    MessageBoxDefaultButton.Button2
+                ) == DialogResult.Yes
+            )
+            {
+                Application.Exit();
+            }
         }
     }
 }
